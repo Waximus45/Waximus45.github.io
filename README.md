@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
 <meta http-equiv="refresh" content="0; url=https://m5wzrhmc-3000.euw.devtunnels.ms">
 <p>
